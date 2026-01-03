@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that embeds prompt of a prompt in a vector store or searches in vaector store. It takes an input named `prompt` which may contains a system_role, user_message, context and history or a text to embed in search vector store. It returns the token count of a input.",
+  "name": "vector_store_retriever",
+  "tool_class": "vector_store_retriever.VectorStoreRetrieverTool"
+}
