@@ -5,7 +5,7 @@ smolagents
 keras 
 faiss-gpu
 gradio>=4.44.0 
-gradio>=4.44.0_client 
+gradio_client
 chroma-hnswlib
 chromadb 
 langchain 
