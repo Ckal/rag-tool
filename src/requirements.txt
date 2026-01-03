@@ -4,8 +4,8 @@ faiss-cpu
 smolagents
 keras 
 faiss-gpu
-gradio>=4.0.0 
-gradio>=4.0.0_client 
+gradio>=4.44.0 
+gradio>=4.44.0_client 
 chroma-hnswlib
 chromadb 
 langchain 
